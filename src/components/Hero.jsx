@@ -1,3 +1,5 @@
+console.log("Hero loaded");
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import SafeIcon from '../common/SafeIcon';
